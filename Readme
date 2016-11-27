@@ -1,0 +1,7 @@
+Cross Site Scripting recursive scanner
+
+Installation:
+pip install -r requirements.txt
+
+Run:
+python xss_scanner.py -h
